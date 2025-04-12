@@ -1,6 +1,6 @@
 # Spotify Clone UI 🎧
 
-A front-end static clone of Spotify built using **HTML, CSS, and JavaScript**.  
+A front-end static clone of Spotify built using **HTML,   tailwindCSS**.  
 This project replicates the look and feel of Spotify's homepage/music player layout.
 
 ## 🚀 Features
