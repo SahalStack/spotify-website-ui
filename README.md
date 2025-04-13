@@ -5,7 +5,6 @@ This project replicates the look and feel of Spotify's homepage/music player lay
 
 ## 🚀 Features
 
-- Responsive design
 - Custom UI components
 - Static music interface (no backend)
 - Smooth hover effects and layout
